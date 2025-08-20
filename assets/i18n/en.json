@@ -1,0 +1,16 @@
+{   
+  "LOGIN": "Login", 
+  "LOGOUT": "Logout",
+  "REGISTER": "Register",
+  "ADMIN_NAV": {  
+    "DASHBOARD": "Dashboard", 
+    "MASTERDATA": "Master Data",
+    "INBOUND": "Inbound",
+    "OUTBOUND": "Outbound",
+    "SALES_ASSIST": "Sales Assist",
+    "SALES_FLOOR_REPLEN": "Stock Rotation",
+    "SALES_STOCK_REPLEN": "Store Replenish",
+    "ADMIN_NAV.INVENTORYCOUNT": "Inventory Count", 
+    "REPORTS": "Reports"
+  } 
+}
