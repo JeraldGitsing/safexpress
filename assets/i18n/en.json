@@ -2,6 +2,8 @@
   "LOGIN": "Login", 
   "LOGOUT": "Logout",
   "REGISTER": "Register",
+  "ITEM_MASTER": "Item Master",
+  "USER_MASTER": "User Master",
   "ADMIN_NAV": {  
     "DASHBOARD": "Dashboard", 
     "MASTERDATA": "Master Data",
